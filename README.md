@@ -16,3 +16,7 @@ advanced-logs: V2.1.3
 ```
 
 ## Altyapıyı Aldıktan Sonra Yapılması Gerekenler
+> 1. `npm i` yazarak gerekli modüller indirilmelidir.
+> 2. `config.js` dosyasına girip botunuzun tokenini `BOT-TOKEN` bölümüne, botunuzun ıd sini `BOT-ID` bölümüne, Kurucu ıd sinide `OWNER-ID` bölümüne girilmelidir.
+> 3. Ve son adım olarak konsola `node . && npm start` yazarak botu başlatabilirsiniz veya start.bat dosyasına çift tıklayıp botu çalıştırabilirsiniz.
+

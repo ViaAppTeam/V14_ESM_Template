@@ -1,5 +1,5 @@
 # V14_ESM_Template
-Selam dostlar biz Soulcore Development 👋! Bugün size Discord.JS v14 sürümü işle yapılmış Slashlı, ESM(ECMAScript Module) Temelli bir boş discord bot altyapısı veriyoruz.
+Selam dostlar biz Soulcore Development 👋! Bugün size Discord.JS v14 sürümü ile yapılmış Slashlı, ESM(ECMAScript Module) Temelli bir boş discord bot altyapısı veriyoruz.
 
 ## Altyapının Özellikleri
 | İsim        | Açıklama                              |

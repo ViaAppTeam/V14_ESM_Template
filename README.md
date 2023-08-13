@@ -6,7 +6,7 @@ Selam dostlar biz Soulcore Development 👋! Bugün size Discord.JS v14 sürüm�
 |-------------|---------------------------------------|
 | `errorHandler`        | Bot hata verse bile çalışmaya devam edecektir.                 |
 | `ESM(ECMAScript Module) Temel`        | ESM discord botunun daha hızlı çalışmaasına olanak tanıyan bir js özelliğidir örnek göstermek gerekirse module.exports = export default gibi oluyor.                 |
-```
+
 **Öbür paylaşan yerler zart zurt şeyler paylaşmışlar bu öyle bi altyapı değil alıp gönlünüzce kullanabilirsiniz.**
 
 ## Gerekli Modüller

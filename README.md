@@ -1,9 +1,9 @@
-#V14 ESM Template
+# V14 ESM Template
 Hello friends, we are the ViaApp developer team 👋! Today, we are giving you an discord bot template based on ESM (ECMAScript Module) with Slash, made with Discord.JS v14 version.
 
 ## Features of Template
 | Name | Description |
-|-------------|---------------------------------- ----|
+|-------------|----------------|
 | `errorHandler` | The bot will continue to work even if it gives an error. |
 | `ESM(ECMAScript Module) Basic` | ESM is a js feature that allows the discord bot to run faster. For example, module.exports = export default. |
 

@@ -5,7 +5,7 @@ import { createRequire } from "module";
 const require = createRequire(import.meta.url);
 const emojis = require("../Config/emojis.json");
 
-export default class Soulcore extends Client {
+export default class ViaAppTeam extends Client {
     constructor() {
         super({
             intents: [

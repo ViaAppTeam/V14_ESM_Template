@@ -9,10 +9,10 @@ export const data = {
     const { client } = interaction;
 
     const embed = new EmbedBuilder()
-      .setAuthor({ name: "Soulcore", iconURL: client.user.displayAvatarURL({ dynamic: true }) })
-      .setDescription(`Soulcore ESM Bot Template Delay: ${client.ws.ping}`)
+      .setAuthor({ name: "ES6 Module Template", iconURL: client.user.displayAvatarURL({ dynamic: true }) })
+      .setDescription(`ES6 Module Template Delay: ${client.ws.ping}`)
       .setColor("#2b2d31")
-      .setFooter({ text: 'Tarafından istendi', iconURL: interaction.user.displayAvatarURL({ dynamic: true }) })
+      .setFooter({ text: 'Required by', iconURL: interaction.user.displayAvatarURL({ dynamic: true }) })
       .setTimestamp()
     interaction.reply({ embeds: [embed], ephemeral: true });
 

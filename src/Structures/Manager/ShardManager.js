@@ -7,5 +7,5 @@ const manager = new ShardingManager("./src/index.js", { token: config.client.tok
 
 manager.spawn()
     .then(() => {
-        console.success(`[+] Soulcore Successfully Connected.`);
+        console.success(`[+] ES6 Module Template Successfully Connected.`);
     });
